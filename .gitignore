@@ -1,0 +1,14 @@
+# 临时生成物
+*.tmp
+*.log
+
+# 媒体临时文件（生成中的视频/图片草稿）
+*.mp4
+*.mov
+*.png.tmp
+*.jpg.tmp
+drafts/
+
+# 本地环境
+.env
+*.token
